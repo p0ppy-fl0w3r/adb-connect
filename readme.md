@@ -14,3 +14,10 @@ or pass 'h' for help
 ```bash
 python connect.py h
 ```
+## Devices
+This script was tested on the following devices
+
+
+Sony xperia M5 dual :- API level 23
+
+Nokia 5 :- API level 28
